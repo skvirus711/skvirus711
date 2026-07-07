@@ -47,25 +47,9 @@ class SKVIRUS:
 
 ---
 
-# 📊 GitHub Statistics
-
-<p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=skvirus711&show_icons=true&theme=tokyonight&count_private=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=skvirus711&layout=compact&theme=tokyonight"/>
-
-</p>
 
 ---
 
-# 🔥 Contribution Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=skvirus711&theme=tokyonight"/>
-
-</p>
 
 ---
 
